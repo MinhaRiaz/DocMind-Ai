@@ -1,4 +1,4 @@
-```python
+
 import os
 import re
 from typing import List, Tuple
@@ -591,4 +591,4 @@ else:
     st.info(
         "👆 Upload a PDF to start asking questions."
     )
-```
+
